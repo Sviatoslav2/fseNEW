@@ -1,0 +1,32 @@
+/mnt/c/Users/Admin/CLionProjects/fse/cmake-build-debug/fse hd0_with_mbr.img
+Please enter the information, has your file MBR or not(Y/N)?: y
+y
+Bytes per sector: 512
+Sectors per claster: 4
+# of FATs: 2
+FAT size: 34
+Root directory entires: 16. Its size: 512
+Reserved Sectors: 1
+Signature: 85
+----------------
+Ls of root catalog
+IO      SYS'
+MSDOS   SYS'
+PCDOS5     (
+DOS        
+PCE        
+UTIL       
+AUTOEXECBAT 
+COMMAND COM 
+CONFIG  SYS 
+Please enter the name of file: UTIL
+UTIL
+File found
+UTIL.       
+It is a directory
+Modify date: 14695
+Creation date: 32102
+Attributes: 00010000
+Starting cluster: 41
+
+Process finished with exit code 0
